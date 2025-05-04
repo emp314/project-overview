@@ -1,7 +1,2 @@
-echo "# project-overview" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/emp314/project-overview.git
-git push -u origin main
+rasbt/LLMs-from-scratch简介：
+给全人类开了科技外挂，全球高校还在用他的著作手搓大模型时，威斯康辛大学的终身教授已经把价值百万美元的工业级训练代码上传到github了。100万行核心代码全开源，硬生生把大模型训练从博士生 高端局变成小白都能玩转的入门运动。把开源项目写成AI圈圣经。这套代码直接把炼丹秘籍掰碎了喂给你，从数据预处理到分布式训练，从梯度优化到模型压缩，100万行源码里藏着价值千万的行业机密。
